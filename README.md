@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**marinaferreiradev/marinaferreiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou a Marina Ferreira!
 
-Here are some ideas to get you started:
+### Estudante de Sistemas de Informação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonada por tecnologia e estou construindo
+minha trajetória na área de desenvolvimento de software.
+
+Atualmente, estou aprimorando meus conhecimentos em
+lógica de programação, desenvolvimento web e banco de dados.
+
+## Tecnologias em aprendizado
+
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+- Git e GitHub
+
+## Atualmente
+
+- Estudando programação pela DIO e Rocketseat
+- Desenvolvendo projetos práticos
+- Buscando minha primeira oportunidade profissional em TI
+
+## Objetivos
+
+Aprofundar meus conhecimentos em desenvolvimento
+de software, construir projetos e conquistar
+minha primeira experiência profissional na área.
+
+## Contato
+
+LinkedIn: adicione seu link aqui
+
