@@ -19,7 +19,7 @@ lógica de programação, desenvolvimento web e banco de dados.
 
 ## Atualmente
 
-- Estudando programação pela DIO e Rocketseat
+- Estudando programação pela DIO, Rocketseat e Nova Era Tech
 - Desenvolvendo projetos práticos
 - Buscando minha primeira oportunidade profissional em TI
 
